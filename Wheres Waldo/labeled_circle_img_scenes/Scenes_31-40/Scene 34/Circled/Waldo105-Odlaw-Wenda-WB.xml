@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Circled</folder>
+	<filename>Waldo105-Odlaw-Wenda-WB.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_images\Scenes_31-40\Scene 34\Circled\Waldo105-Odlaw-Wenda-WB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2460</width>
+		<height>3424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>odlaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>2629</ymin>
+			<xmax>471</xmax>
+			<ymax>2872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1238</xmin>
+			<ymin>2486</ymin>
+			<xmax>1435</xmax>
+			<ymax>2697</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>white beard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1624</xmin>
+			<ymin>2511</ymin>
+			<xmax>1842</xmax>
+			<ymax>2711</ymax>
+		</bndbox>
+	</object>
+</annotation>

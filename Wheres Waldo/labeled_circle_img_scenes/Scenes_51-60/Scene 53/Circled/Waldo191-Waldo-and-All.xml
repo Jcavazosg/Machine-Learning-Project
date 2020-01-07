@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Circled</folder>
+	<filename>Waldo191-Waldo-and-All.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_images\Scenes_51-60\Scene 53\Circled\Waldo191-Waldo-and-All.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1676</width>
+		<height>2872</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>odlaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>1527</ymin>
+			<xmax>227</xmax>
+			<ymax>1887</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>1536</ymin>
+			<xmax>630</xmax>
+			<ymax>1896</ymax>
+		</bndbox>
+	</object>
+</annotation>

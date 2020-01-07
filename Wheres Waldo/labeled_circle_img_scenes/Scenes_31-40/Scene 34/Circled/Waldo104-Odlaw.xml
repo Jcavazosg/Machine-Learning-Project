@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Circled</folder>
+	<filename>Waldo104-Odlaw.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_images\Scenes_31-40\Scene 34\Circled\Waldo104-Odlaw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2428</width>
+		<height>3424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>odlaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2126</xmin>
+			<ymin>2643</ymin>
+			<xmax>2276</xmax>
+			<ymax>2904</ymax>
+		</bndbox>
+	</object>
+</annotation>

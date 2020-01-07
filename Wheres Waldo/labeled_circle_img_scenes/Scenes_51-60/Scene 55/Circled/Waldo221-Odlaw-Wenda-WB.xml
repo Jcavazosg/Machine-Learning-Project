@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Circled</folder>
+	<filename>Waldo221-Odlaw-Wenda-WB.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_images\Scenes_51-60\Scene 55\Circled\Waldo221-Odlaw-Wenda-WB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2480</width>
+		<height>3432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>odlaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>1369</ymin>
+			<xmax>191</xmax>
+			<ymax>1612</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1548</xmin>
+			<ymin>1083</ymin>
+			<xmax>1763</xmax>
+			<ymax>1433</ymax>
+		</bndbox>
+	</object>
+</annotation>

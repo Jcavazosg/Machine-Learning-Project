@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Circled</folder>
+	<filename>Waldo112-Whitebeard.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_images\Scenes_31-40\Scene 36\Circled\Waldo112-Whitebeard.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white beard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>7</ymin>
+			<xmax>847</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

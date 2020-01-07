@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Circled</folder>
+	<filename>Waldo099-Odlaw-WB.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_images\Scenes_31-40\Scene 32\Circled\Waldo099-Odlaw-WB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2516</width>
+		<height>3476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>odlaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1745</xmin>
+			<ymin>2289</ymin>
+			<xmax>1930</xmax>
+			<ymax>2671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>white beard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1800</xmin>
+			<ymin>3108</ymin>
+			<xmax>2093</xmax>
+			<ymax>3448</ymax>
+		</bndbox>
+	</object>
+</annotation>

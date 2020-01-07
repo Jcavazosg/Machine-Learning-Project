@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Circled</folder>
+	<filename>Waldo137-WB.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_images\Scenes_31-40\Scene 37\Circled\Waldo137-WB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white beard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>203</ymin>
+			<xmax>750</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

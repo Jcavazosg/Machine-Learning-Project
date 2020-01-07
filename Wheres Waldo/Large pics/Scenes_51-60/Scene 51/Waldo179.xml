@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Scene 51</folder>
+	<filename>Waldo179.jpg</filename>
+	<path>C:\Users\16167\Desktop\Project3_ML_Wheres_Waldo\Machine-Learning-Project\Wheres Waldo\Large pics\Scenes_51-60\Scene 51\Waldo179.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2452</width>
+		<height>3408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1428</xmin>
+			<ymin>1748</ymin>
+			<xmax>1796</xmax>
+			<ymax>2172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not Waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2080</xmin>
+			<ymin>2216</ymin>
+			<xmax>2452</xmax>
+			<ymax>2681</ymax>
+		</bndbox>
+	</object>
+</annotation>
