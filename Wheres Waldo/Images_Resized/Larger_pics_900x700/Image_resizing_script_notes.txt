@@ -1,0 +1,2 @@
+transform_image_resolution.py script must be located in the parent directory when trying to resize all of the images to 800 x 600 size
+
