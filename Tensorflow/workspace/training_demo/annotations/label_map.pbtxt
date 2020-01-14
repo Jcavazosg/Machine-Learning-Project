@@ -5,17 +5,17 @@ item {
 
 item {
     id: 2
-    name: 'wb'
+    name: 'odlaw'
 }
 
 
 item {
     id: 3
-    name: 'wenda'
+    name: 'wb'
 }
 
 item {
     id: 4
-    name: 'odlaw'
+    name: 'wenda'
 }
 
