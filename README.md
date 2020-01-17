@@ -1,4 +1,4 @@
-<p align="center"> <b> **Machine-Learning-Project**</b>
+<p align="center"> <b> Machine-Learning-Project</b>
 
   ![Waldo](waldoandfriends.jpg)
 
