@@ -1,6 +1,6 @@
 <p align="center"> <b> Machine-Learning-Project</b>
 
-  <p align="center"> ![Waldo](waldoandfriends.jpg)
+ ![Waldo](waldoandfriends.jpg)
 
 
 #### **Project Team:** Jorge Cavazos, Cynthia Juarez, Lynn Leifker, and Kellye Rennell
