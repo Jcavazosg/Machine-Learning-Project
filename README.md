@@ -5,11 +5,6 @@
 </p>
 
 
-
-
-![Waldo](waldoandfriends.jpg)
-
-
 #### **Project Team:** Jorge Cavazos, Cynthia Juarez, Lynn Leifker, and Kellye Rennell
 
 #### **Problem:** How can we effectively find Waldo and his friends Wenda, Whitebeard, and Odlaw in the Where’s Waldo series of pictures?
