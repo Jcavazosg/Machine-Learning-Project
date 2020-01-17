@@ -2,9 +2,9 @@
 
 ![Waldo](waldo.jpg)
 
-H2 **Project Team:** Jorge Cavazos, Cynthia Juarez, Lynn Leifker, and Kellye Rennell
+## H2 **Project Team:** Jorge Cavazos, Cynthia Juarez, Lynn Leifker, and Kellye Rennell
 
-H2 **Problem:** How can we effectively find Waldo and his friends Wenda, Whitebeard, and Odlaw in the Where’s Waldo series of pictures?
+## H2 **Problem:** How can we effectively find Waldo and his friends Wenda, Whitebeard, and Odlaw in the Where’s Waldo series of pictures?
 
 On GitHub we found one convolutional neural network trained on [19 Waldo images](https://github.com/vc1492a/Hey-Waldo). Various people have built [their own apps](https://github.com/tadejmagajna/HereIsWally) using this model, but its accuracy is only about 50 percent. We didn’t find any models trained for Waldo’s friends, so we knew we would need to do some training ourselves.
 
