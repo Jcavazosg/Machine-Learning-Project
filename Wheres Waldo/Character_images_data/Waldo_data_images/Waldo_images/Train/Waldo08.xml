@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Waldo</folder>
+	<filename>Waldo08.jpg</filename>
+	<path>C:\Users\16167\Desktop\Machine-Learning-Project\Wheres Waldo\Individual Characters\Waldo\Waldo08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>43</ymin>
+			<xmax>115</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
