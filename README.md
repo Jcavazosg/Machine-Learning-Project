@@ -1,6 +1,6 @@
 # Machine-Learning-Project
 
-  ![Waldo](waldo3.png)align="center"
+  ![Waldo](waldoandfriends.jpg)
 
 
 #### **Project Team:** Jorge Cavazos, Cynthia Juarez, Lynn Leifker, and Kellye Rennell
