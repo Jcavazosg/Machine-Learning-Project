@@ -20,3 +20,7 @@ To check that everything had gone smoothly, we used a modified [Python script](h
 ![notebook](notebook.png)
 
 Next we cloned the TensorFlow model repo and installed the Object Detection API. Running it required configuring the pipeline for the photos to be trained. 
+
+***
+
+Because of the difficulty in getting this model trained, we researched facial recognition models to see if they might be more effective in locating Waldo. The ones we tested turned out not to be able to recognize the drawings as faces. However, they were very good at recognizing human faces in real time. For each of our classmates, we downloaded one photo from Slack or LinkedIn. With this single photo for training and some quick labeling, we made a surprisingly accurate model!
