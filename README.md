@@ -1,7 +1,7 @@
 <p align="center"> <b> Machine-Learning-Project</b>
 
 <p align="center">
-  <img width="460" height="400" src="https://i.pinimg.com/originals/ea/f7/54/eaf754d26a5f816b3dd2ad08e0896116.jpg">
+  <img width="420" height="300" src="https://i.pinimg.com/originals/ea/f7/54/eaf754d26a5f816b3dd2ad08e0896116.jpg">
 </p>
 
 
