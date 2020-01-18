@@ -1,4 +1,4 @@
-<p align="center"> <b> Machine Learning Project</b>
+## Machine Learning Project ##
 
 <p align="center">
   <img width="380" height="200" src="https://i.pinimg.com/originals/ea/f7/54/eaf754d26a5f816b3dd2ad08e0896116.jpg">
@@ -99,7 +99,7 @@ Within a few hours, the loss rate had dropped to half of a percent.
 
 ![later output](ReadMe_pics/tensor_shot3.png)
 
-## Meanwhile...##
+## Meanwhile... ##
 
 Jorge and Lynn buckled down on finding alternate methods for finding Waldo. Using a facial recognition algorithm seemed like a promising idea. It turns out that this technology is much more advanced than object recognition, so much so that the Python library [OpenCV](https://opencv.org/) can be used with only a single Python script and no training at all. It is a very large library with many dependencies, but once it’s installed, it works great. It has more than 2,500 optimized algorithms and has been trained to detect faces and human actions, among other things. Incredibly, it can be trained to detect a particular person’s face from a single image!
 
