@@ -27,4 +27,6 @@ Next we cloned the TensorFlow model repo and installed the Object Detection API.
 
 ***
 
+https://github.com/Jcavazosg/ML_Facial_Rec
+
 Because of the difficulty in getting this model trained, we researched facial recognition models to see if they might be more effective in locating Waldo. The ones we tested turned out not to be able to recognize the drawings as faces. However, they were very good at recognizing human faces in real time. For each of our classmates, we downloaded one photo from Slack or LinkedIn. With this single photo for training and some quick labeling, we made a surprisingly accurate model!
