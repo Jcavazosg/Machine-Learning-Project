@@ -128,3 +128,9 @@ It did pretty well on the test images.
 On our larger images, the model was sometimes able to find a character, but it didn’t box all four as we expected. Instead, it stopped after finding the first character and then zoomed in on the image, making it difficult to tell where exactly in the scene Waldo or his friends are. This behavior could probably be solved with more research and scripting.
 
 Training proved to be difficult but rewarding. If we were to continue with modeling these images, it might be useful to see if there’s a pre-trained model that’s set up for 2-D graphical images like prints or artwork. If so, we might get a more accurate result.
+
+## Afterword ##
+
+Because running the Waldo model live is difficult, here's a peek at the alternate project.
+
+[Facial Recognition Repo](https://github.com/Jcavazosg/ML_Facial_Rec)
