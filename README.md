@@ -13,6 +13,8 @@ On GitHub we found one convolutional neural network trained on [19 Waldo images]
 
 We borrowed five Where’s Waldo books from the Austin Public Library and scanned in 68 total scenes. We then did the hard work of locating Waldo and his friends manually because we were unable to find an answer key in the books or online. From the scans, we pulled out roughly 40 headshots of each of the four characters for training and testing.
 
+![Waldo books](waldo_books.png)
+
 We decided to use TensorFlow’s Object Detection API, specifically the [faster-rcnn-inception-v2-coco](faster-rcnn-inception-v2-coco) model, on which the other Waldo model was based. The base model has been trained on roughly 300,000 images and we thought it would be relatively quick to train.
 
 To prepare the images, we used a Python script to resize the images so that they would be consistent for training. We then needed to create bounding boxes for each character’s head so that the training would be focused on their faces and hats. To get the needed x and y values of these boxes, we used the [LabelImg](https://github.com/tzutalin/labelImg) graphical annotation tool. We followed [Tanner Gilbert’s tutorial](https://github.com/TannerGilbert/Tutorials/tree/master/Tensorflow%20Object%20Detection) to convert this data to csv so that we could add image categories (the names of characters) for each. After this we used another Python script to split the photos into training and testing groups and yet another to put the images into .tfrecord format so that the TensorFlow model could read them. We then created a label map so that they would be correctly annotated as they ran through training and testing.
