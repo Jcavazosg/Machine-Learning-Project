@@ -21,7 +21,7 @@ On GitHub we found one convolutional neural network trained on [19 Waldo images]
 
 ![WheresWally](https://raw.githubusercontent.com/tadejmagajna/HereIsWally/master/docs/docs.png)
 
-**He Can Hide with a Little Help from his Friends**
+## He Can Hide with a Little Help from his Friends ##
 
 We didn’t find any models trained for Waldo’s friends, so we knew we would need to do some training ourselves to find them. This would require a set of training and testing images.
 
@@ -31,7 +31,7 @@ Getting these images took a little legwork. We borrowed six Where’s Waldo book
 
 Unfortunately, we were unable to find an answer key in the books or online. Christmas break was the ideal time to do the hard work of locating Waldo and his friends manually, especially with kids home from school who could be persuaded to help. Randy Olson’s search strategy helped us find Waldo, but locating Wenda, Whitebeard, and Odlaw took a significant amount of time. We created our own answer key for each scene to provide a reference when it was time to create the training images.
 
-![Answer key](ReadMe_pics/Answer_scene2.jpg)
+![Answer key](ReadMe_pics/Answer_scene2.jpeg)
 
 From the scans, we pulled out roughly 40 headshots of each of the four characters for training and testing. We wanted the clearest pictures of each character, and we thought that doubling the number of trained images from the previous high of 19 would provide a solid enough foundation to do some accurate searching.
 
