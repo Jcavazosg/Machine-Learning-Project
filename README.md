@@ -9,7 +9,7 @@
 
 #### **Problem:** How can we effectively find Waldo and his friends Wenda, Whitebeard, and Odlaw in the Where’s Waldo series of pictures?
 
-[b]In the Beginning[/b]
+**In the Beginning**
 
 We thought it would be fun to create a machine learning model that would allow a user to upload a picture of a Where’s Waldo scene and have it automatically locate Waldo and his friends. Some internet searching found us a couple of articles about people using machine learning to find Waldo. [Randy Olson](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/) computed the optimal path for finding Waldo using a genetic algorithm. Key takeaway: start your search for Waldo in the bottom left quadrant of a page. This didn't actually give us Waldo’s location for any given image, but it was helpful when it came time to do a manual search.
 
@@ -19,7 +19,7 @@ On GitHub we found one convolutional neural network trained on [19 Waldo images]
 
 ![WheresWally](https://raw.githubusercontent.com/tadejmagajna/HereIsWally/master/docs/docs.png)
 
-[b]He Can Hide with a Little Help from his Friends[/b]
+**He Can Hide with a Little Help from his Friends**
 
 ![Waldo_books](Waldo_books.jpg)
 
