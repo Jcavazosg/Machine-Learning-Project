@@ -21,7 +21,7 @@ On GitHub we found one convolutional neural network trained on [19 Waldo images]
 
 ![WheresWally](https://raw.githubusercontent.com/tadejmagajna/HereIsWally/master/docs/docs.png)
 
-## He Can Hide with a Little Help from his Friends ##
+## He Can Hide with a Little Help from His Friends ##
 
 We didn’t find any models trained for Waldo’s friends, so we knew we would need to do some training ourselves to find them. This would require a set of training and testing images.
 
