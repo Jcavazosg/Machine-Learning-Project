@@ -107,9 +107,11 @@ It turned out, however, not to work on the scanned two-dimensional Waldo picture
 
 ![Waldo](ReadMe_pics/jorge_waldo.png)
 
+It was actually possible to get the full-face image of Waldo identified, but it required a little bending for a more 3-D effect and didn’t work at all on the scanned scenes. In those, Waldo is always in three-quarter profile. 
+
 ![Jorge](ReadMe_pics/jorge_identified.png)
 
-It was actually possible to get the full-face image of Waldo identified, but it required a little bending for a more 3-D effect and didn’t work at all on the scanned scenes. In those, Waldo is always in three-quarter profile. 
+It worked great on Jorge, though!
 
 **Back to Our Model**
 
