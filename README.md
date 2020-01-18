@@ -47,7 +47,7 @@ We decided to use [TensorFlow’s Object Detection API](https://tensorflow-objec
 
 To prepare the images, we first used a Python script to resize the images so that they would be consistent for training. We then needed to isolate the characters from the rest of the image. To do this, we downloaded the [LabelImg](https://github.com/tzutalin/labelImg) graphical annotation tool to create bounding boxes for each character’s head so that the training would be focused on their faces and hats. This software provides the x and y coordinates of the bounding boxes, which otherwise would have to be found by hand.
 
-![Waldo_Label_Img2](ReadMe_pics/Waldo_Label_Img2.png)
+![waldo_and_odaw-a](ReadMe_pics/waldo_and_odaw-a.png)
 
 A very important part of preparing the images was to get them into a form TensorFlow could read. LabelImg outputs the images to `.xml` files. We had to use a Python script to convert these files to `.csv` so that they could have categories (character names) attached to each image. From `.csv`, they needed to be transferred into the `tf.record` format so that they could be inputted into the learning pipeline, and this required more research in order to locate an appropriate script. 
 
