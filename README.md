@@ -1,4 +1,4 @@
-## Machine Learning Project ##
+<p align="center"><h1> Machine Learning Project</h1></p>
 
 <p align="center">
   <img width="380" height="200" src="https://i.pinimg.com/originals/ea/f7/54/eaf754d26a5f816b3dd2ad08e0896116.jpg">
